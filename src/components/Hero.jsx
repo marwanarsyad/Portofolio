@@ -31,7 +31,7 @@ const Hero = () => {
               animate='visible'
               className='bg-gradient-to-r from-pink-300 via-slate-500 to-purple-500 bg-clip-text
             text-3x1 tracking-tight text-transparant'>
-              IT Develovment & Muasis Pesantren 
+              IT Develovment 
             </motion.span>
 
             <motion.p
