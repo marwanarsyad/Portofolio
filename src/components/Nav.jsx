@@ -9,7 +9,7 @@ import { FaSpotify } from "react-icons/fa";
 import { FaPlaystation } from "react-icons/fa";
 import { FaDiscord } from "react-icons/fa";
 
-const Navbar = () => {
+const Nav = () => {
     return (
         <nav className="mb-20 flex items-center justify-between py-6">
             <div className="flex flex-shrink-0 items-center">
@@ -30,4 +30,4 @@ const Navbar = () => {
     );
 };
 
-export default Navbar;
+export default Nav;
